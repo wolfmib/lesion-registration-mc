@@ -7,9 +7,9 @@ Monte Carlo simulation guide for the paper
 > Department of Systems and Control Engineering, University of Malta
 > IEEE ISBI 2027 (under review)
 
-## What is here
+## Simulation guide
 
-- [`Investigating_Lesion_Registration_Uncertainty_Simulation_Guide.pdf`](Investigating_Lesion_Registration_Uncertainty_Simulation_Guide.pdf) — two pages: what the simulation tests, the protocol of Sec. 3.4 of the paper, the script that produces each figure and table (Figs. 2–4, Table 1), and the run commands.
+[Download the simulation guide](Investigating_Lesion_Registration_Uncertainty_Simulation_Guide.pdf) for the simulation setup and commands to reproduce the figures and tables.
 
 ## What the simulation reproduces
 
@@ -20,17 +20,13 @@ Monte Carlo simulation guide for the paper
 | Fig. 4 | ray sweep with the 95 % simultaneous band; six lesion polygons with 95 % confidence intervals |
 | Table 1 | relative deviations of the predictions; lesion-boundary area disagreement for six polygons |
 
-## Code availability
-
-The simulation scripts are released in this repository after the review round. Until then, requests by e-mail are welcome.
-
 ## Citation
 
 Hung, W.-C., Cristina, S., Camilleri, K. P., Bonnici, A. *Investigating Lesion Registration Uncertainty in Dynamic Thermography Using Fiducial Leverage and Residuals.* IEEE ISBI 2027, under review.
 
 ## Contact
 
-Wei-Che Hung — wei-che.hung@um.edu.mt · wolfmib@gmail.com
+For research questions or simulation code requests, contact Wei-Che Hung at [wei-che.hung@um.edu.mt](mailto:wei-che.hung@um.edu.mt) or [wolfmib@gmail.com](mailto:wolfmib@gmail.com).
 
 ## Licence
 
