@@ -3,7 +3,7 @@
 Monte Carlo simulation guide for the paper
 
 > **Investigating Lesion Registration Uncertainty in Dynamic Thermography Using Fiducial Leverage and Residuals**
-> Wei-Che Hung, Stefania Cristina, Kenneth P. Camilleri, Alexandra Bonnici
+> Wei-Che Hung, Stefania Cristina, Kenneth P. Camilleri, Alexandra Bonnici, et al.
 > Department of Systems and Control Engineering, University of Malta
 > IEEE ISBI 2027 (under review)
 
@@ -22,7 +22,7 @@ Monte Carlo simulation guide for the paper
 
 ## Citation
 
-Hung, W.-C., Cristina, S., Camilleri, K. P., Bonnici, A. *Investigating Lesion Registration Uncertainty in Dynamic Thermography Using Fiducial Leverage and Residuals.* IEEE ISBI 2027, under review.
+Hung, W.-C., Cristina, S., Camilleri, K. P., Bonnici, A., et al. *Investigating Lesion Registration Uncertainty in Dynamic Thermography Using Fiducial Leverage and Residuals.* IEEE ISBI 2027, under review.
 
 ## Contact
 
